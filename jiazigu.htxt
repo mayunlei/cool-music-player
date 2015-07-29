@@ -1,0 +1,35 @@
+架子鼓模块功能说明
+
+在用户打开程序之后就可以自由演奏。用键盘上的按钮或者鼠标点击屏幕上的架子鼓就能发出相应的声音。
+
+键盘——架子鼓对应表：
+
+	键盘	架子鼓
+	H	Bass drum
+	U	Snare drum
+	F	Hi hat
+	G	pedal hi hat
+	8	Cymbal 1
+	9	Hid tom drum
+	0	Mid tom drum
+	P	Cymbal 2
+	L	Low tom 1
+	Q	Cymbal 2
+	1	Low tom 2
+
+按“Record”按钮，记录演奏的窗口弹出。
+选择“tempo”（速度），按“start”开始记录。
+演奏完毕按“save”、输入文件名保存文件 或者 按“Exit” 退出（不保存文件）。
+
+按“Open”按钮，播放记录的窗口弹出。
+点击列表上想要播放的记录，按“select”，播放窗口弹出。
+按“Play”播放记录或者按“stop”停止播放。
+
+按“Play Along”按钮，伴奏演奏的窗口弹出。
+点击窗口上想要演奏的伴奏，按“play”演奏开始。
+随着伴奏而演奏。如果想要停止演奏按“stop”，退出。
+
+在主窗口上选择“Drum type”的列表，可以更换鼓的风格。
+目前已有：normal，rock，jazz，funk，latin，electric 六种风格可选。
+
+在主窗口上按“Exit”按钮或者关闭窗口按钮即可退出系统。

@@ -1,0 +1,13 @@
+swing
+
+rock
+hardrock3.wav
+
+latin
+latin1.wav
+
+pop
+poprock1.wav
+
+jazz
+
